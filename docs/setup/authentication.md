@@ -4,7 +4,7 @@ Authenticating on your local environment is no different than the production env
 
 ### Logging In
 
-1.  Navigate to `https://login.command.kw.com`
+1.  Navigate to ......
 1.  Use your OneLogin credentials to login
 1.  You will be redirected you to the production version of the Console - that is normal!!
 1.  Navigate back to your [local envinroment URL](server.md)
